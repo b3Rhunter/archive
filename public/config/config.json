@@ -1,0 +1,17 @@
+{
+  "CONTRACT_ADDRESS": "0xA37183239ad6659f7909d0d6AaF1CD21B09f7F67",
+  "SCAN_LINK": "https://polygonscan.com/token/0xa37183239ad6659f7909d0d6aaf1cd21b09f7f67",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
+  },
+  "NFT_NAME": "GMN Archive",
+  "SYMBOL": "ARCHIVE",
+  "MAX_SUPPLY": 150,
+  "WEI_COST": 10000000000000000000,
+  "DISPLAY_COST": 10,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/gmn-archive-101-150",
+  "SHOW_BACKGROUND": true
+}
